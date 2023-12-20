@@ -30,6 +30,7 @@ private:
     QLineEdit clkFrqEdit;
     QLineEdit divEdit;
     QLineEdit outFrqEdit;
+    QLineEdit phaseEdit;
 
     QListWidget listView;
 
